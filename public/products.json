@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Pro",
+    "description": "Professional resume builder with AI-powered suggestions and industry-specific templates.",
+    "price": 29,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "100+ premium templates",
+      "ATS optimization",
+      "AI content suggestions",
+      "Export to PDF & Word",
+      "Cover letter builder"
+    ],
+    "icon": "📄"
+  },
+  {
+    "id": 2,
+    "name": "Career Booster",
+    "description": "Complete career toolkit with resume, cover letter, and LinkedIn optimization tools.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Unlimited resumes",
+      "LinkedIn profile optimizer",
+      "Interview question bank",
+      "Job application tracker",
+      "Weekly career tips"
+    ],
+    "icon": "🚀"
+  },
+  {
+    "id": 3,
+    "name": "Premium Templates Pack",
+    "description": "Exclusive collection of modern and creative resume & cover letter templates.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "50+ designer templates",
+      "Creative & minimalist styles",
+      "Fully customizable",
+      "One-click color change",
+      "Lifetime updates"
+    ],
+    "icon": "🎨"
+  },
+  {
+    "id": 4,
+    "name": "AI Resume Writer",
+    "description": "Advanced AI that writes and optimizes your entire resume in minutes.",
+    "price": 89,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "AI-powered writing",
+      "Job description matching",
+      "Keyword optimization",
+      "Multiple language support",
+      "Real-time suggestions"
+    ],
+    "icon": "🤖"
+  },
+  {
+    "id": 5,
+    "name": "Job Hunt Pro",
+    "description": "All-in-one platform to manage your entire job search process efficiently.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "",
+    "tagType": "",
+    "features": [
+      "Job application tracker",
+      "Company research database",
+      "Email template library",
+      "Interview preparation tools",
+      "Progress analytics"
+    ],
+    "icon": "💼"
+  },
+  {
+    "id": 6,
+    "name": "Executive Resume",
+    "description": "Premium resume building service tailored for C-level and senior professionals.",
+    "price": 149,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Executive-level templates",
+      "Personal branding strategy",
+      "Achievement quantification",
+      "Professional summary writing",
+      "1-hour expert consultation"
+    ],
+    "icon": "⭐"
+  },
+  {
+    "id": 7,
+    "name": "Student Starter",
+    "description": "Perfect resume builder designed specifically for students and fresh graduates.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Student-friendly templates",
+      "Internship & project focus",
+      "GPA & coursework section",
+      "Simple drag & drop editor",
+      "Free export"
+    ],
+    "icon": "🎓"
+  },
+  {
+    "id": 8,
+    "name": "Lifetime Access Pass",
+    "description": "Unlimited access to all tools and templates forever. Best value plan.",
+    "price": 199,
+    "period": "one-time",
+    "tag": "Best Value",
+    "tagType": "popular",
+    "features": [
+      "All current & future tools",
+      "Unlimited resumes & exports",
+      "Priority AI features",
+      "Advanced analytics",
+      "No recurring charges"
+    ],
+    "icon": "♾️"
+  }
+]

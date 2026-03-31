@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import './App.css'
 import Banner from './components/Banner/Banner'
 import Counter from './components/Counter/Counter'
@@ -5,6 +6,8 @@ import Navbar from './components/Navbar/Navbar'
 import Products from './components/Products/Products'
 
 function App() {
+
+  // const [AddToCard, setAddToCard] = useState([]);
 
   return (
     <>
