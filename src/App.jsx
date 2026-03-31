@@ -1,14 +1,20 @@
 import './App.css'
 import Banner from './components/Banner/Banner'
+import Counter from './components/Counter/Counter'
 import Navbar from './components/Navbar/Navbar'
 
 function App() {
 
   return (
-    <div className='w-8/12 mx-auto'>
+    <>
+      <div className='w-8/12 mx-auto'>
       <Navbar></Navbar>
       <Banner></Banner>
     </div>
+    <div className='bg-linear-to-r from-purple-600 to-purple-500 py-15'>
+      <Counter></Counter>
+    </div>
+    </>
   )
 }
 
